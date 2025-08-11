@@ -1,5 +1,5 @@
 // q1 
-//Piyush (1024160081)
+//nipun mahajan (1024160036)
 #include <iostream>
 using namespace std;
 
@@ -99,4 +99,5 @@ int main() {
 
     return 0;
 }
+
 //  piyush (1024160081)
